@@ -1,5 +1,8 @@
 # Lykos - Git Secret Guardian
 
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![100% Local](https://img.shields.io/badge/privacy-100%25%20local-brightgreen)
+
 <p align="center">
   <img src="lykos/assets/lykos.png" alt="lykos Logo" width="400"/>
 </p>
